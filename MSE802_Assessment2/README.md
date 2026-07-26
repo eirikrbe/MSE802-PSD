@@ -3,6 +3,7 @@
 **Author:** Eric Gomez
 **Programme:** Master of Software Engineering, Yoobee College
 **Course:** MSE802 Quantum Computing
+**Repository:** https://github.com/eirikrbe/MSE802-PSD/tree/main/MSE802_Assessment2
 
 ## Overview
 
